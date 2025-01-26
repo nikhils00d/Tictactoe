@@ -36,6 +36,7 @@ const resetgame= ()=>{
         box.disabled=false;
         box.innerText="";
         winr.classList.add("hide");
+        rstbtn.innerText="Reset Game";
     }
 }
 
